@@ -1,3 +1,3 @@
 class ValidatePassword
-
+    
 end
